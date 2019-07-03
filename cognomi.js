@@ -1,5 +1,8 @@
 // Chiedi all’utente il cognome, inseriscilo in un array con altri cognomi e stampa la lista ordinata alfabeticamente.
 
+
+// definizione variabili e array
+
 var utente = prompt("Cognome");
 var cognomi = ["Pisolo", "Gongolo", "Cucciolo", "Mammolo", "Brontolo", "Eolo", "Dotto"];
 
